@@ -6,6 +6,14 @@ This code is based on [RT-DETRv2](https://github.com/lyuwenyu/RT-DETR/tree/main/
 pip install -r requirements.txt
 ```
 ##  Usage
+### Data Download
+All datasets can be downloaded from the following links. 
+
+[VisDrone2019](https://github.com/VisDrone/VisDrone-Dataset.git)
+
+[TinyPerson](https://universe.roboflow.com/chris-d-dbyby/tinyperson)
+
+[Cityscapes](https://drive.google.com/drive/folders/1mRrJT-CjVwNbQ6iRt4VdZguXrH9iJx9i) 
 ### Training 
 #### Training  on the VisDrone dataset
 ```
