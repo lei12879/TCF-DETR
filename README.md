@@ -1,4 +1,4 @@
-# Multi-scale Token-Channel Fusion Transformer for Enhanced Small Object Detection
+# TCF-DETR: A Multi-scale Token-Channel Fusion Detection Transformer for Small Object Detection
 
 This code is based on [RT-DETRv2](https://github.com/lyuwenyu/RT-DETR/tree/main/rtdetrv2_pytorch).
 ## Setup
